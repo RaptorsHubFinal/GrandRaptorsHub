@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=Z_wWAsmRUmY
 https://www.youtube.com/watch?v=PbveDYL5cTk
 
 ## Supported Games
-This is a list of supported games that the hub should work at:
+This is a list of supported games that the hub should work at:  
 https://roblox.com/games/6938803436/  
 https://roblox.com/games/8304191830/  
 https://roblox.com/games/914010731/  
@@ -55,7 +55,7 @@ Start here: https://github.com/HeftigHD/rapsHub
 
 You will also find old UI libs for those versions.
 
-Feeling nostalgic? Watch the very first Raptors Hub videos!
+Feeling nostalgic? Watch the very first Raptors Hub videos!  
 https://www.youtube.com/watch?v=OZqB_V5cIH4  
 https://www.youtube.com/watch?v=-quv4YzjOv4
 
