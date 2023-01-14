@@ -13,17 +13,17 @@ This is the final release by The Raptors, an ultimate and grand script hub! The 
 
 ## Showcase
 Check out the showcase of this hub! Universal features and RoBeats are showcased!
-https://www.youtube.com/watch?v=Z_wWAsmRUmY
+https://www.youtube.com/watch?v=Z_wWAsmRUmY  
 https://www.youtube.com/watch?v=PbveDYL5cTk
 
 ## Supported Games
 This is a list of supported games that the hub should work at:
-https://roblox.com/games/6938803436/
-https://roblox.com/games/8304191830/
-https://roblox.com/games/914010731/
-https://roblox.com/games/698448212/
-https://roblox.com/games/2677609345/
-https://roblox.com/games/4855457388/
+https://roblox.com/games/6938803436/  
+https://roblox.com/games/8304191830/  
+https://roblox.com/games/914010731/  
+https://roblox.com/games/698448212/  
+https://roblox.com/games/2677609345/  
+https://roblox.com/games/4855457388/  
 https://roblox.com/games/6439292574/
 
 There is also a Universal Aimbot & ESP.
@@ -56,7 +56,7 @@ Start here: https://github.com/HeftigHD/rapsHub
 You will also find old UI libs for those versions.
 
 Feeling nostalgic? Watch the very first Raptors Hub videos!
-https://www.youtube.com/watch?v=OZqB_V5cIH4
+https://www.youtube.com/watch?v=OZqB_V5cIH4  
 https://www.youtube.com/watch?v=-quv4YzjOv4
 
 If you are wondering what SecureLua is going to be like for Synapse V3, take a sneak peek:
