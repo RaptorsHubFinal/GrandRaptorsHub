@@ -59,7 +59,7 @@ Feeling nostalgic? Watch the very first Raptors Hub videos!
 https://www.youtube.com/watch?v=OZqB_V5cIH4  
 https://www.youtube.com/watch?v=-quv4YzjOv4
 
-If you are wondering what SecureLua is going to be like for Synapse V3, take a sneak peek:
+If you are wondering what SecureLua is going to be like for Synapse V3, take a sneak peek:  
 SecureLua V2.1 is a partial rewrite of SecureLua that is designed mostly as a real-life test of whats to come in SecureLua V3. As you can probably guess, it has more security features, so lets go ahead in order:
 1) **No more need for SX_VM_A/B/C**. These can be safely removed from your code as a VM is automatically picked per function now.
 2) **"Enhanced" security VMs**: SecureLua V2.1 includes enhanced-security VMs for security-critical code. Note that this code is _very_ slow (like we are talking 2-5x worse than Luraph), so only use them when necessary. 
