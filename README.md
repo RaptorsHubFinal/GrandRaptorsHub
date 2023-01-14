@@ -4,6 +4,7 @@
 # Grand Raptors Hub
 The culminating release by The Raptors!
 <p align="center">
+<img src="https://cdn.discordapp.com/attachments/692609523445399559/1063579211429851196/grandraps.png">
 <img width = "800" src="https://cdn.discordapp.com/attachments/692609523445399559/1062670089343750214/image.png">
 <img width = "800" src="https://cdn.discordapp.com/attachments/692609523445399559/1062670756577808404/image.png">
 </p>
