@@ -7,6 +7,7 @@ The culminating release by The Raptors!
 <img src="https://cdn.discordapp.com/attachments/692609523445399559/1063579211429851196/grandraps.png">
 <img width = "800" src="https://cdn.discordapp.com/attachments/692609523445399559/1062670089343750214/image.png">
 <img width = "800" src="https://cdn.discordapp.com/attachments/692609523445399559/1062670756577808404/image.png">
+<img width = "800" src="https://cdn.discordapp.com/attachments/590073378497363970/1070183961000685709/image.png">
 </p>
 
 ## Preamble
@@ -25,7 +26,8 @@ https://roblox.com/games/914010731/
 https://roblox.com/games/698448212/  
 https://roblox.com/games/2677609345/  
 https://roblox.com/games/4855457388/  
-https://roblox.com/games/6439292574/
+https://roblox.com/games/6439292574/  
+https://www.roblox.com/games/4111023553/Deepwoken-Verse-2 (Most GRAND)
 
 There is also a Universal Aimbot & ESP.
 
