@@ -3,6 +3,14 @@
 
 # Grand Raptors Hub
 The culminating release by The Raptors!
+
+## Byfron Update
+Since Byfron has officially released, this hub may not work too well in the future. It was designed to work optimally on Synapse V2. While the universal features and some games may work on Synapse V3, it is not fully perfect and some features might break.
+
+Therefore, we are releasing our source code (totally not decompiled SecureLua!). You are free to use it for any purpose (including researching it to better secure your game!). Pull requests may be accepted if you are able to get the universal features working on UNC supported executors. It is in `source.txt`
+
+The source code contains the `goto` statement and may have over 200 locals for some functions; if you wish to run the source, it is recommended that you get it working on a modified version of a lua implemented lua compiler and FiOne.
+
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/692609523445399559/1063579211429851196/grandraps.png">
 <img width = "800" src="https://cdn.discordapp.com/attachments/692609523445399559/1062670089343750214/image.png">
